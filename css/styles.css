@@ -48,6 +48,12 @@ a:hover{
   color:#EAF6F6;
 }
 
+.ad{
+    font-family: 'Sacramento',cursive;
+    font-size: 2.625rem;
+
+}
+
 .front{
   width:25%;
   background-color:#B6FFCE;
@@ -116,12 +122,14 @@ background-color: #FDFDBD;
   position: absolute;
   right: 30%;
   top:40px;
+  float: left;
 }
 
 .bottom-cloud{
   position: absolute;
   left:25%;
   bottom:300px;
+  float: right;
 }
 
 .button{
