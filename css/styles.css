@@ -120,14 +120,14 @@ background-color: #FDFDBD;
 
 .top-cloud{
   position: absolute;
-  right: 30%;
+  right: 20%;
   top:40px;
   float: right;
 }
 
 .bottom-cloud{
   position: absolute;
-  left:25%;
+  left:15%;
   bottom:300px;
   float: left;
 }
