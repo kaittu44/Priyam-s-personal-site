@@ -122,14 +122,14 @@ background-color: #FDFDBD;
   position: absolute;
   right: 30%;
   top:40px;
-  float: left;
+  float: right;
 }
 
 .bottom-cloud{
   position: absolute;
   left:25%;
   bottom:300px;
-  float: right;
+  float: left;
 }
 
 .button{
