@@ -2,7 +2,7 @@ body{
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  background-color: #FDFDBD;
+  background-color: #FFF9B0;
   color:#40514E;
 }
 
@@ -40,8 +40,8 @@ p{
 a{
   color: #11999E;
   margin: 10px 20px 20px 20px;
-    font-family: 'Montserrat', sans-serif;
-    text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
 }
 
 a:hover{
@@ -58,6 +58,7 @@ a:hover{
   width:25%;
   background-color:#B6FFCE;
 }
+
 .skill-row{
   width:50%;
   margin: 100px auto 100px auto;
@@ -65,14 +66,14 @@ a:hover{
 }
 
 .top-container {
-  background-color: #FDFDBD;
+  background-color: #FFD384;
   position: relative;
   padding-top: 20px;
 }
 
 .middle-container {
 margin:100px 0;
-background-color: #FDFDBD;
+background-color: #FFF9B0;
 }
 
 .profile{
@@ -86,7 +87,7 @@ background-color: #FDFDBD;
 }
 
 .bottom-container {
-  background-color: #FECD70;
+  background-color: #FF884B;
    padding: 40px 0 20px;
 }
 
@@ -122,14 +123,14 @@ background-color: #FDFDBD;
   position: absolute;
   right: 20%;
   top:40px;
-  float: right;
+  float: left;
 }
 
 .bottom-cloud{
   position: absolute;
   left:15%;
   bottom:300px;
-  float: left;
+  float: right;
 }
 
 .button{
