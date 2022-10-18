@@ -2,7 +2,7 @@ body{
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  background-color: #FFF9B0;
+  background-color: #FDFDBD;
   color:#40514E;
 }
 
@@ -66,14 +66,14 @@ a:hover{
 }
 
 .top-container {
-  background-color: #FFD384;
+  background-color: #FDFDBD;
   position: relative;
   padding-top: 20px;
 }
 
 .middle-container {
 margin:100px 0;
-background-color: #FFF9B0;
+background-color: #FDFDBD;
 }
 
 .profile{
@@ -87,7 +87,7 @@ background-color: #FFF9B0;
 }
 
 .bottom-container {
-  background-color: #FF884B;
+  background-color: #FECD70;
    padding: 40px 0 20px;
 }
 
